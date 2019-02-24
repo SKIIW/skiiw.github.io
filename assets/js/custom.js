@@ -15,6 +15,7 @@ $(document).ready(function(){
 3. Progress-bar
 4. owl carousel
 5. welcome animation support
+6. music button
 ======================================*/
 
     // 1. Scroll To Top 
@@ -125,3 +126,23 @@ $(document).ready(function(){
 
 });	
 	
+/* 6. music button
+			$('.audio')(function(){
+				var playing = !!('ontouchstart' in window) || !!('ontouchstart' in document.documentElement) || !!window.ontouchstart || (!!window.Touch && !!window.Touch.length) || !!window.onmsgesturechange || (window.DocumentTouch && window.document instanceof window.DocumentTouch),
+				snd = document.getElementsByTagName('audio')[0],
+				ctrl = document.getElementById('.pauseplay');
+				playing = !playing;
+				ctrl.title = playing? 'Pause' : 'Play';
+				if(playing){snd.autoplay = false; ctrl.src = '/assets/images/pause.png';}
+				ctrl.addEventListener('click', function(){
+					if(playing){
+						snd.pause();
+					} else {
+						snd.play();
+					}
+					playing = !playing;
+					ctrl.title = playing? 'Pause' : 'Play';
+					ctrl.src = playing? '/assets/images/pause.png' : '/assets/images/play-button.png';
+				}, false);
+			})();
+			*/
