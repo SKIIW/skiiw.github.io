@@ -1,6 +1,6 @@
-# Arthor: Henrique Faria
-# Start Date: 23/02/19
-# URL skiiw.github.io
+## Arthor: Henrique Faria ##
+## Start Date: 23/02/19 ##
+## URL skiiw.github.io ##
 
 # Meu portfólio #
 
