@@ -1,5 +1,3 @@
-# [Under development...] #
-
 ## Henrique Faria's Portfolio ##
 ### Arthor: Henrique Faria ###
 ### Start Date: 23/02/19 ###
