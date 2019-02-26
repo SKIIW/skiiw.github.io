@@ -7,3 +7,4 @@
 #### < Coming Soon > ####
 - Colocar seleção de idioma: Ingles,Brazil,Frances
 - Seleção de modo Daltonico
+- Parallax Effect
