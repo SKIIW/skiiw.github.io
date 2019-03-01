@@ -672,6 +672,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     -ms-transition:.5s; 
     -o-transition:.5s;
     transition: .5s;
+	background-color: #4bb334;
 }
 .contact-form .single-contact-btn .contact-btn ,
 .contact-form .single-contact-btn .contact-btn:focus {
@@ -686,7 +687,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     -ms-transition:.5s; 
     -o-transition:.5s;
     transition: .5s;
-    background-color: #4bb334;
+    
     
 }
 .single-contact-btn:hover{
