@@ -1,0 +1,137 @@
+/* MOBILE */
+@media (min-width: 320px) {
+    .set-under-nav li {
+      display: none;
+    }
+    .navbar-brand img {
+      width: 162px;
+      height: 58px;
+    }
+  }
+  /* MOBILE 2 */
+  @media (min-width: 480px) {
+    .set-under-nav li {
+      display: none;
+    }
+
+    .navbar-brand img {
+      width: 162px;
+      height: 58px;
+    }
+
+    .set-menu-btn {
+      justify-content: center;
+    }
+  }
+  /* TABLET */
+  @media (min-width: 768px) {
+    .set-under-nav li
+    {
+      display: none;
+    }
+    .set-menu-btn {
+      justify-content: center;
+    }
+    .navbar-brand img {
+      width: 270px;
+      height: 96px;
+    }
+
+  }
+    /* DESKTOP */
+    @media (min-width: 992px) {
+      .set-logo img {
+        padding-bottom: 20px;
+      }
+      .set-under-nav li
+      {
+        display: inline;
+      }
+      .navbar-brand img {
+        width: 270px;
+        height: 96px;
+      }
+      .set-btn-cliente {
+        justify-content: end !important;
+      }
+
+      
+    }
+    /* DISPOSITIVOS GRANDES */
+    @media (min-width: 1200px) {
+      .set-under-nav
+      {
+        font-size: 1.05em;
+        display: inline;
+      }
+      .navbar-brand img {
+        width: 270px;
+        height: 96px;
+      }
+      .set-btn-cliente {
+        justify-content: end;
+      }
+      .nav-link {
+        padding-left: 2 em !important; 
+        padding-right: 2 em !important; 
+      }
+    }
+    @media (max-width: 768px) 
+    {
+      #set-carousel-1 {
+        display: none;
+      }
+      .set-menu-btn {
+        margin-top: 10px;
+      }
+      .set-menu {
+        margin-left: 0px !important;
+      }
+      .set-logo-content img{
+        width: 145px;
+        height: 165px;
+      }
+      #set-carousel-2 {
+        display:none;
+      }
+      .set-missao {
+        display:none;
+      }
+      .mobile-off{
+        display:none;
+      }
+      .margem-items-nav{
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+      }
+      .mt5 {
+        margin-top: 0rem !important;
+      }
+      .ma8 {
+        margin-top: 0rem !important;
+        margin-bottom: 0rem !important;
+      }
+      .ma7 {
+        margin-top: 0.5rem !important;
+        margin-bottom: 1rem !important;
+      }
+      .mb5 {
+        margin-bottom: 0rem !important;
+      }
+
+      .ml4 {
+        margin-left: 0rem !important;
+      }
+
+      .mt7{
+        margin-top: 0.5rem !important;
+      }
+
+      #mySidenav {
+        display: none;
+      }
+
+      .sidenav {
+        display: none;
+      }
+    } 
