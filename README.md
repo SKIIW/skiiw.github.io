@@ -1,5 +1,5 @@
 ## Henrique Faria's Portfolio ##
-### Arthor: Henrique Faria ###
+### Author: Henrique Faria ###
 
 <!-- Main Page -->
 ### URL https://rickmff.github.io ###
