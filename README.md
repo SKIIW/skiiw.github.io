@@ -1,4 +1,4 @@
-## Henrique Faria's Portfolio ##
+## Henrique Faria's Resume ##
 ### Author: Henrique Faria ###
 
 <!-- Main Page -->
